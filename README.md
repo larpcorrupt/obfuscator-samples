@@ -1,6 +1,3 @@
-# obfuscator-samples
-A collection of Lua &amp; Luau obfuscator samples ( such as luraph. )
-
-this repository was created by neosnapp ( v1x )
-[discord](https://discord.gg/z6tH4KMM7D)
-
+samples 
+this was created by larpcorurpt and v1x.
+https://discord.gg/W4B6KYaW
